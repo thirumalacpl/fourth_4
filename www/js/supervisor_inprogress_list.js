@@ -1295,8 +1295,6 @@ return false;
 sessionStorage.setItem("common_addressa",JSON.stringify(common_addressa));
 sessionStorage.setItem("currentobj_inpro",JSON.stringify(super_inpro_obj));
   	}
-
-  
 sessionStorage.setItem("common_addressa",JSON.stringify(common_addressa));
 sessionStorage.setItem("currentobj_inpro",JSON.stringify(super_inpro_obj));
 $.mobile.changePage($('#pagedesign'), { transition: "none", changeHash: true, reverse: false });
