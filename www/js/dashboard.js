@@ -174,6 +174,8 @@ sessionStorage.setItem("servant_education_array",JSON.stringify(result[28]));
 
 sessionStorage.setItem("educational_records_array",JSON.stringify(result[29]));
 
+sessionStorage.setItem("coordinator_final_comment_array",JSON.stringify(result[30]));
+
 // alert(region+'refresh new regionArray_array');
 $.mobile.loading().hide();
 $.mobile.changePage($('#supervisor_inprogress_list'), { transition: "none", changeHash: true, reverse: false });

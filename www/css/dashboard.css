@@ -742,3 +742,14 @@ margin-left: 85px !important;
   margin-left:55px !important;
 }
 }
+
+.listrejectcolor{
+  color: red !important;
+}
+.reportr{
+  background-color: red !important;
+  color: white !important;
+  font-weight: 600 !important;
+  font-size: 20px !important;
+  /*text-align: center !important;*/
+}
